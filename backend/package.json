@@ -1,0 +1,15 @@
+{
+  "name": "dcbel-new-platform-backend",
+  "version": "1.0.0",
+  "scripts": {
+    "lint": "eslint . --ext .js"
+  },
+  "license": "UNLICENSED",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^7.21.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-config-prettier": "^8.1.0",
+    "eslint-plugin-import": "^2.22.1"
+  }
+}
